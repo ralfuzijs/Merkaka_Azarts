@@ -12,3 +12,15 @@
 6. Ielīmēt GitHub Repository URL
 
 ### Visual studio / Visual studio code
+Klonēt:
+1. Atveriet VS Code.
+2. Noklikšķiniet uz "Klonēt repozitoriju" vai meklējiet "Git: Clone".
+3. Ievadiet GitHub repozitorija URL.
+4. Atlasiet klonēšanas vietu.
+   
+Atvērt Codespaces (ja ir paplašinājums):
+1.  Instalējiet GitHub Codespaces paplašinājumu.
+2. Atveriet komandu paleti un meklējiet "Codespaces: Izveidot jaunu Codespace".
+3. Atlasiet repozitoriju un zaru.
+
+Izvēlieties sev piemērotāko metodi!
