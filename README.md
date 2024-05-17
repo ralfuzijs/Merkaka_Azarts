@@ -1,3 +1,5 @@
+Links: https://github.com/ralfuzijs/Merkaka_Azarts_final.git
+
 # Merkaka Azarts
 
 ## Kā palaist programmu.
