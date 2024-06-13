@@ -25,4 +25,4 @@ Atvērt Codespaces (ja ir paplašinājums):
 2. Atveriet komandu paleti un meklējiet "Codespaces: Izveidot jaunu Codespace".
 3. Atlasiet repozitoriju un zaru.
 
-Izvēlieties sev piemērotāko metodi!
+Izvēlieties sev piemērotāko metodi.
